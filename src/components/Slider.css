@@ -1,0 +1,60 @@
+
+.Header{
+    background-color: rgb(189, 222, 237);
+    height: 650px;
+    margin-top: 60px;
+    display: flex;
+}
+
+.text{
+    padding-top: 2rem;
+    padding-left: 10rem;
+}
+
+.text1{
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+    padding-left: 5rem;
+    position: absolute;
+    bottom: 390px;
+}
+
+.links{
+    list-style-type: none;
+    font-size: 25px;
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    margin-bottom: 10px;
+    line-height: 1.5; 
+}
+
+.launch-button {
+    background-color: gray;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 180px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .launch-button:hover {
+    background-color: darkgray;
+  }
+  
+
+.headimg{
+    margin-top: 30px;
+    margin-left: 190px;
+}
